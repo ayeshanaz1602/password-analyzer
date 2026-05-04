@@ -35,12 +35,17 @@ https://ayeshanaz1602.github.io/password-analyzer/
 ---
 ## 📸 Screenshots
 
+### 🖥️ UI
 ![UI](ui.png)
 
+### ❌ Weak Password
 ![Weak](weak.png)
 
+### ✅ Strong Password
 ![Strong](strong.png)
 
+### 🔐 Generated Password
+![Generated](generate.png)
 ---
 
 ## ⚠️ Note
