@@ -1,3 +1,5 @@
+🌐 Live Demo: https://ayeshanaz1602.github.io/password-analyzer/
+
 # 🔐 Password Strength Analyzer
 
 A web-based tool that evaluates password strength using real-time validation and entropy calculation.
@@ -9,7 +11,7 @@ https://ayeshanaz1602.github.io/password-analyzer/
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 - Real-time password strength checking  
 - Strength meter visualization  
 - Password generator  
