@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Password Strength Analyzer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h2>Password Strength Analyzer 🔐</h2>
+
+    <!-- Password Input -->
+    <div class="input-box">
+      <input type="password" id="password" placeholder="Enter password" oninput="checkPassword()">
+      <button onclick="togglePassword()">👁️</button>
+    </div>
+
+    <!-- Buttons -->
+    <button onclick="checkPassword()">Check Strength</button>
+    <button onclick="generatePassword()">Generate Strong Password</button>
+    <button onclick="copyPassword()">Copy Password</button>
+
+    <!-- Strength Bar -->
+    <div id="strength-bar">
+      <div id="strength-fill"></div>
+    </div>
+
+    <!-- Result -->
+    <p id="result"></p>
+
+    <!-- Checklist -->
+    <ul id="checklist">
+      <li id="length">At least 8 characters</li>
+      <li id="upper">Uppercase letter</li>
+      <li id="lower">Lowercase letter</li>
+      <li id="number">Number</li>
+      <li id="special">Special character</li>
+    </ul>
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
