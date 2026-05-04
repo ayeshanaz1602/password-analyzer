@@ -35,8 +35,9 @@ https://ayeshanaz1602.github.io/password-analyzer/
 ---
 
 ## 📸 Screenshots
-(Add screenshots here if required)
-
+![UI](ui.png)
+![Weak](weak.png)
+![Strong](strong.png)
 ---
 
 ## ⚠️ Note
