@@ -33,11 +33,14 @@ https://ayeshanaz1602.github.io/password-analyzer/
 - GitHub deployment using GitHub Pages  
 
 ---
-
 ## 📸 Screenshots
+
 ![UI](ui.png)
+
 ![Weak](weak.png)
+
 ![Strong](strong.png)
+
 ---
 
 ## ⚠️ Note
